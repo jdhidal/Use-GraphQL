@@ -26,9 +26,6 @@ The code implements a basic GraphQL server with the following features:
 ### Prerequisites
 
 - Install Go (version 1.16 or higher). If you don't have Go installed, you can download it from [https://golang.org/dl/](https://golang.org/dl/).
-- Install the `graphql-go` package by running:
-  ```bash
-  go get github.com/graph-gophers/graphql-go
 
 ### Steps to Run
 1. **Clone the repository to your local machine:**
